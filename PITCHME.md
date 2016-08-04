@@ -65,7 +65,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Under Git Version Control Within Your GitHub Repo
 
 #HSLIDE
-<!-- .slide: data-autoslide="9000" -->
+<!-- .slide: data-autoslide="10000" -->
 
 AND <span style="color: #e49436">GIT</span>PITCH IS <span style="color: #e49436">DESIGNED</span> FOR SHARING
 
