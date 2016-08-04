@@ -69,10 +69,10 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 AND <span style="color: #e49436">DESIGNED</span> FOR SHARING
 
-- Print any GitPitch slideshow to PDF
-- Embed any GitPitch slideshow within a blog or website
-- Share any GitPitch slideshow on Twitter, LinkedIn, Facebook, etc
-- Use a GitHub badge in your READMEs to advertise a GitPitch slideshow 
+- Print any slideshow to PDF
+- Embed any slideshow within a blog or website
+- Share any slideshow on Twitter, LinkedIn, Facebook, etc
+- Advertise any slideshow uing a GitHub badge in your READMEs
 
 #HSLIDE
 <!-- .slide: data-autoslide="8000" -->
