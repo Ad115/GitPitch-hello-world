@@ -65,6 +65,16 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Under Git Version Control Within Your GitHub Repo
 
 #HSLIDE
+<!-- .slide: data-autoslide="7000" -->
+
+AND <span style="color: #e49436">DESIGNED</span> FOR SHARING
+
+- Print any GitPitch slideshow to PDF
+- Embed any GitPitch slideshow within a blog or website
+- Share any GitPitch slideshow on Twitter, LinkedIn, Facebook, etc
+- Use a GitHub badge in your READMEs to advertise a GitPitch slideshow 
+
+#HSLIDE
 <!-- .slide: data-autoslide="8000" -->
 
 ### Go for it.
