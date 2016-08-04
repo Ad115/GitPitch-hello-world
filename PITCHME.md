@@ -71,8 +71,8 @@ AND <span style="color: #e49436">DESIGNED</span> FOR SHARING
 
 - Print any slideshow to PDF
 - Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, Facebook, etc
-- Advertise any slideshow uing a GitHub badge in your READMEs
+- Share any slideshow on Twitter, LinkedIn, etc
+- Advertise any slideshow uing a GitHub badge
 
 #HSLIDE
 <!-- .slide: data-autoslide="8000" -->
