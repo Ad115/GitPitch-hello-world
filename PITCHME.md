@@ -58,9 +58,9 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 - View any slideshow at its public URL
 - Print any slideshow to PDF
+- Advertise any slideshow using a GitHub badge
 - Embed any slideshow within a blog or website
 - Share any slideshow on Twitter, LinkedIn, etc
-- Advertise any slideshow using a GitHub badge
 
 #HSLIDE
 <!-- .slide: data-autoslide="12000" -->
