@@ -65,7 +65,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 #HSLIDE
 <!-- .slide: data-autoslide="12000" -->
 
-<span style="color: #e49436">GIT</span>PITCH <span style="color: #e49436">SLIDESHOWS</span> ARE FEATURE RICH
+<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
 
 - GitHub Flavored Markdown +
 - Code Block Syntax Highlighting
