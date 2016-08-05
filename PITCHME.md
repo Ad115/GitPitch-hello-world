@@ -50,6 +50,19 @@ Git-commit on any repo branch and push your PITCHME.md to GitHub.
 Instantly use your GitPitch slideshow URL to promote, pitch or present your GitHub project.
 
 #HSLIDE
+<!-- .slide: data-autoslide="10000" -->
+
+<span style="color: #e49436">GIT</span>PITCH SOCIAL
+
+<span style="color:gray">GitPitch slideshow presentations are designed for sharing.</span>
+
+- View any slideshow at it's public URL
+- Print any slideshow to PDF
+- Embed any slideshow within a blog or website
+- Share any slideshow on Twitter, LinkedIn, etc
+- Advertise any slideshow using a GitHub badge
+
+#HSLIDE
 <!-- .slide: data-autoslide="12000" -->
 
 <span style="color: #e49436">GIT</span>PITCH <span style="color: #e49436">SLIDESHOWS</span> ARE FEATURE RICH
@@ -64,15 +77,6 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Your Slideshow Is Part Of Your Project
 - Under Git Version Control Within Your GitHub Repo
 
-#HSLIDE
-<!-- .slide: data-autoslide="10000" -->
-
-AND <span style="color: #e49436">GIT</span>PITCH IS <span style="color: #e49436">DESIGNED</span> FOR SHARING
-
-- Print any slideshow to PDF
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Advertise any slideshow using a GitHub badge
 
 #HSLIDE
 <!-- .slide: data-autoslide="8000" -->
