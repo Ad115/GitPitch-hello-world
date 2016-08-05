@@ -54,9 +54,9 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 <span style="color: #e49436">GIT</span>PITCH SOCIAL
 
-<span style="color:gray">GitPitch slideshow presentations are designed for sharing.</span>
+<span style="color:gray">Designed for sharing.</span>
 
-- View any slideshow at it's public URL
+- View any slideshow at its public URL
 - Print any slideshow to PDF
 - Embed any slideshow within a blog or website
 - Share any slideshow on Twitter, LinkedIn, etc
