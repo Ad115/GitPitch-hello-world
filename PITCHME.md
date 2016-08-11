@@ -60,7 +60,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Advertise any slideshow using a GitHub badge
 - Embed any slideshow within a blog or website
 - Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow to PDF document
+- Print any slideshow as PDF document
 - Download and present any slideshow offline
 
 #HSLIDE
