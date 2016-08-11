@@ -1,7 +1,7 @@
 #HSLIDE
 <!-- .slide: data-autoslide="10000" -->
 
-![LOGO](https://res.cloudinary.com/gitpitch/image/upload/v1468815754/gp-logo.png)
+![LOGO](https://res.cloudinary.com/gitpitch/image/upload/gp-logo.png)
 
 #### Get the word out!
 <br>
@@ -25,7 +25,7 @@
 
 <span style="color: #e49436">STEP 1. PITCHME.md</span>
 
-![MARKDOWN](https://res.cloudinary.com/gitpitch/image/upload/v1468815764/hello-world/markdown.png)
+![MARKDOWN](https://res.cloudinary.com/gitpitch/image/upload/hello-world/markdown.png)
 
 Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
 
@@ -33,7 +33,7 @@ Create GitPitch slideshow content using GitHub flavored Markdown in your favorit
 
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
-![TERMINAL](https://res.cloudinary.com/gitpitch/image/upload/v1468815772/hello-world/terminal.png)
+![TERMINAL](https://res.cloudinary.com/gitpitch/image/upload/hello-world/terminal.png)
 
 Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
@@ -57,10 +57,11 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 ![SOCIAL](http://res.cloudinary.com/gitpitch/image/upload/hello-world/gp-social.jpg)
 
 - View any slideshow at its public URL
-- Print any slideshow to PDF
 - Advertise any slideshow using a GitHub badge
 - Embed any slideshow within a blog or website
 - Share any slideshow on Twitter, LinkedIn, etc
+- Print any slideshow as PDF document
+- Download and present any slideshow offline
 
 #HSLIDE
 <!-- .slide: data-autoslide="12000" -->
@@ -68,8 +69,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 <span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
 
 - GitHub Flavored Markdown +
-- Code Block Syntax Highlighting
-- GIST Slides
+- Code Block and GIST Slides
 - Image and Video Slides
 - Custom Logos and Backgrounds
 - Multiple Themes And More
