@@ -57,10 +57,11 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 ![SOCIAL](http://res.cloudinary.com/gitpitch/image/upload/hello-world/gp-social.jpg)
 
 - View any slideshow at its public URL
-- Print any slideshow to PDF
 - Advertise any slideshow using a GitHub badge
 - Embed any slideshow within a blog or website
 - Share any slideshow on Twitter, LinkedIn, etc
+- Print any slideshow to PDF
+- Present any slideshow offline
 
 #HSLIDE
 <!-- .slide: data-autoslide="12000" -->
